@@ -1,4 +1,4 @@
-#meca3-example-oscillator
+# meca3-example-oscillator
 
 Simulation of a field of material points **linked by identical springs**.
 
